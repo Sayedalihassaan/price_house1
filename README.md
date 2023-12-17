@@ -1,2 +1,1 @@
-Hello My Friends
-This is New Project LinearRegression i am used a different model LinearRegression and DecisionTreeRegressor and SVR  and RandomForestRegressor and Ridge I need to hear your opinion about it, your evaluation of me, and your advice
+This repository dives into the world of real estate by predicting housing prices using machine learning techniques. We leverage various Python libraries like pandas, scikit-learn, and TensorFlow to analyze datasets and build accurate models. Whether you're a data enthusiast, a curious homeowner, or someone interested in the practical applications of AI, this project welcomes you to explore the fascinating intersection of housing data and predictive models.
